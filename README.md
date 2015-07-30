@@ -1,5 +1,4 @@
 first
 =====
 
-gitÏà¹ØµÄ²âÊÔ²Ö¿â~
-
+my test for git !
